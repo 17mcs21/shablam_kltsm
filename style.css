@@ -1,0 +1,73 @@
+{
+    padding: 0px;
+    margin: 0px;
+}
+header{
+    background-color: darksalmon;
+    }
+.information{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+    padding-left:26%;
+    font-style: bold;
+    margin-left: 28%;
+}
+.col-lg-8{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20%;
+    padding-right: 40%;
+    color:black;
+    margin-left: 6%;
+}
+.dist{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 40%;
+}
+/*--form---*/
+.login{
+    border: 2px solid red;
+    background-color: beige;
+    height: 24em;
+    width: 16em;
+    margin-top: 7%;
+    margin-left: 40%;
+    padding: 30px;
+}
+body{
+    background-size: cover;
+}
+.login h3{
+    text-align: center;
+}
+.login #login-button{
+    width: 100%;
+    height: 2.5em;
+    color:white;
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+}
+
+/*--signup form==*/
+
+.signup{
+    border: 2px solid red;
+    background-color: beige;
+    height: 28em;
+    width: 18em;
+    margin-top: 5%;
+    margin-left: 37%;
+    padding: 30px;
+}
+body{
+    background-size: cover;
+}
+.signup h3{
+    text-align: center;
+}
+.signup #login-button{
+    width: 100%;
+    height: 2.5em;
+    color:white;
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+}

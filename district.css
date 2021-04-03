@@ -1,0 +1,55 @@
+.title-text{
+  text-align: center;
+  padding-left: 7%;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 30%;
+}
+.container1{
+  margin-top: 4%;
+  margin-left: 12%;
+}
+.p-box{
+  border: 2px solid black;
+  width: 26%;
+  float: left;
+  margin-left: 20px;
+  height: 18em;
+  margin-bottom: 17px;
+  background-color: lightseagreen;
+}
+.card-title{
+  text-align: center;
+}
+.p-box a{
+  text-align: center;
+}
+/*-----TVM------*/
+.col-lg-6{
+  padding-left: 7%;
+  margin-bottom: 3%;
+  margin-top: 3%;
+}
+.col-lg-3{
+  padding-right: 8%;
+  max-width: 100%;
+  max-height: auto;
+  margin-top: 5%;
+  padding-left: 7%;
+  margin-bottom: 3%;
+}
+h1{
+  text-align: center;
+  font-style: italic;
+  text-shadow: 2px 2px 5px white;
+}
+body{
+  background-size: cover;
+}
+h2{
+  margin-bottom: 5%;
+  padding-left: 3%;
+  text-shadow: teal 2px 2px 5px;
+}
+.col-lg-10{
+  padding-left: 15%;
+}
